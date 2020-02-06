@@ -16,7 +16,8 @@
   .Mntitle {
     color: white;
   }
-  #resultsModal img {
+  #match-img {
+    height: 40vh;
     overflow: hidden;
-    width: 500px;
+    width: 30vh;
   }
